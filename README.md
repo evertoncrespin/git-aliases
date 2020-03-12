@@ -20,6 +20,9 @@ A list of some useful aliases to use on git
 ### CHECKOUT MASTER:
 `git config --global alias.master 'checkout master'`
 
+### CHERRY-PRICK:
+`git config --global alias.cp 'cherry-pick'`
+
 ### UNDO:
 `git config --global alias.undo 'reset HEAD~1 --mixed'`
 
