@@ -18,7 +18,7 @@ A list of some useful aliases to use on git
 `git config --global alias.undo 'reset HEAD~1 --mixed'`
 
 ### SAVE TO STASH:
-`git config --global alias.undo 'stash save'`
+`git config --global alias.save 'stash save'`
 
 ### APPLY LAST STASH:
 `git config --global alias.apply 'stash apply'`
