@@ -11,6 +11,9 @@ A list of some useful aliases to use on git
 ### ABOVE SHOW CHANGED FILES:
 `git config --global alias.myfiles 'log --author=<your_name_here> --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --numstat'`
 
+### PULL WITH REBASE:
+`git config --global alias.pereba 'pull --rebase'`
+
 ### CHECKOUT:
 `git config --global alias.co 'checkout'`
 
